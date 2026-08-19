@@ -11,3 +11,4 @@ npx skills add renjinxi/skills -g
 | skill | 说明 |
 |-------|------|
 | `zoom-out` | 让 agent 上升一层抽象，用项目领域词汇画出相关模块与调用方的地图 |
+| `setup-project` | 从私人标准模板创建全新的 GitHub 私有仓库和本地 clone；已有仓库保持原样 |
