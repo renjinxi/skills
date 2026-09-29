@@ -1,5 +1,5 @@
 ---
-name: copy
+name: clip
 description: Copy what the user wants (a command, snippet, previous answer, file content, etc.) to the system clipboard.
 disable-model-invocation: true
 ---
